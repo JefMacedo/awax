@@ -9,7 +9,7 @@ Realizado apenas para fins didáticos.
 - [x] Section
 - [x] About us
 - [x] Services
-- [ ] Project
+- [x] Project
 - [ ] Our team
 - [ ] Exercício
 - [ ] Mapa
