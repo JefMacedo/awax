@@ -377,10 +377,11 @@ header {
 .section-team .slidearea {
     display: flex;
     height: 100%;
-    color: #ffffff;
+    color: #000000;
     justify-content: center;
     align-items: center;
     flex-direction: column;
+    padding: 30px;
 }
 
 .section-team-area .sliders-pointers {
@@ -402,5 +403,43 @@ header {
 }
 
 .section-team-area .pointer.active {
+    background-color: #b28756;
+}
+
+.section-team--avatar {
+    width: 150px;
+    height: auto;
+}
+
+.section-team--name {
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 17px;
+    margin-top: 30px;
+}
+
+.section-team--role {
+    font-size: 14px;
+    color: #999;
+    margin-top: 5px;
+}
+
+.section-team--social {
+    display: flex;
+    margin-top: 20px;
+}
+
+.section-team--social a {
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    width: 25px;
+    height: 25px;
+    background-color: #CCc;
+    border-radius: 13px;
+    margin-right: 5px;
+}
+
+.section-team--social a:hover {
     background-color: #b28756;
 }
