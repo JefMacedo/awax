@@ -10,9 +10,15 @@ Realizado apenas para fins didáticos.
 - [x] About us
 - [x] Services
 - [x] Project
-- [ ] Our team
-- [ ] Exercício
-- [ ] Mapa
-- [ ] Rodapé
+- [x] Our team
+- [x] Client
+- [x] Partner companies
+- [x] Price
+- [x] Premium
+- [x] Some facts
+- [x] Share
+- [x] Contact
+- [x] Mapa
+- [x] Rodapé
 - [ ] Versão Tablet
 - [ ] Versão Mobile
